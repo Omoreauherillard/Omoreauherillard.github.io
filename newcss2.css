@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2 déc. 2022, 15:20:05
+    Author     : sebas
+*/
+.erreur{
+    position: fixed;
+    margin-left: 95px;
+    margin-top: -10px;
+    width: 1300px;
+}
+.carre2{
+    position: fixed;
+    width: 220px;
+    height: 50px;
+    background-color: transparent;
+    margin-left: 638px;
+    margin-top: 578px;
+}
